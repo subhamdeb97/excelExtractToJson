@@ -1,0 +1,13 @@
+# Standard Python ignores
+__pycache__/
+venv/
+.env
+*.pyc
+
+# User request: Ignore all main files except main.py
+main*.py
+mn.py
+!main.py
+
+# Explicitly ensure requirements.txt is tracked
+!requirements.txt

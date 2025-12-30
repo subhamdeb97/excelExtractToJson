@@ -1,0 +1,1 @@
+extract this excel to json. as result : [{}, {},{},....{}]. every row should be a object. all key should be column numbers(example col1, col2) and value should be cell value 
